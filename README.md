@@ -21,7 +21,7 @@
 </details>
 
 <details>
-<summary><h3 align="left">Git Hub Stats:</h3></summary>
+<summary><h3 align="left">GitHub Stats:</h3></summary>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seun9yeon&show_icons=true&locale=en&layout=compact" alt="seun9yeon" /></p>
 
