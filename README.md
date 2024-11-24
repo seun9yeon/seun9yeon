@@ -14,7 +14,7 @@
 </p>
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seun9yeon&show_icons=true&locale=en&layout=compact" alt="seun9yeon" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seun9yeon&show_icons=true&locale=en&layout=compact" alt="seun9yeon" /></p>
 
 <details>
 <summary><h3 align="left">Languages and Tools:</h3></summary>
@@ -26,6 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seun9yeon&show_icons=true&locale=en" alt="seun9yeon" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seun9yeon&" alt="seun9yeon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seun9yeon&" alt="seun9yeon" /></p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
