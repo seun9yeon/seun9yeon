@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seun9yeon&show_icons=true&locale=en" alt="seun9yeon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seun9yeon&" alt="seun9yeon" /></p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
