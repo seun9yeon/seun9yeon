@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seun9yeon&label=Profile%20views&color=0e75b6&style=flat" alt="seun9yeon" /> </p>
 
 
-  <h4 align="left>Studying:</h4>
+  <h4 align="left">Studying:</h4>
   <p align="left">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
